@@ -1,5 +1,7 @@
 # WebAPI Experiments
 
+From https://www.linkedin.com/learning/learning-rest-apis/
+
 Use Rest Client Extension
 
 ## Request
@@ -35,3 +37,13 @@ Aditionally
 - 200
 - 404
 
+
+## Response
+
+Most Import is Content-Type like "application/json; charset=UTF-8"
+
+
+## Authorization
+
+(not used online)
+Authorization: Basic user pwd 
