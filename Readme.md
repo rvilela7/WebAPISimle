@@ -13,12 +13,12 @@ Use Rest Client Extension
 - 401 Unauth
 - 409 Conflict
 - 404
-### PUT (Update)
+### PUT (Update, but may create a new if exists)
 - 200
 - 401
 - 404
 - 405 Method not Allowed
-### PATCH (Small Update, should give what to update)
+### PATCH (Update only, should give what to update)
 - 200
 - 401
 - 404
@@ -30,7 +30,7 @@ Use Rest Client Extension
 
 Aditionally
 
-### OPTIONS (methods allowed)
+### OPTIONS (methods allowed, useful for method/parameters discovery)
 - 200
 
 ### HEAD (just response headers)

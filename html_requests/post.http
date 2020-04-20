@@ -1,0 +1,8 @@
+POST https://reqres.in/api/users
+#Authorization: Basic rv pwd
+#Content-Type: application/json
+
+{
+    "name": "morpheus",
+    "job": "leader"
+}
