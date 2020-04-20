@@ -30,7 +30,7 @@ Use Rest Client Extension
 
 Aditionally
 
-### OPTIONS (methods allowed, useful for method/parameters discovery)
+### OPTIONS (methods allowed, useful for method discovery)
 - 200
 
 ### HEAD (just response headers)
